@@ -1,7 +1,15 @@
 Tutorial
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://drive.google.com/file/d/1M9Deh3ykBG4Qb2mAb8-fUk8QnMZ363rf/view?usp=sharing)
+<a target="_blank" href="https://colab.research.google.com/github/dlineuroai-workshop/2024-Worshop/blob/main/NeuroAI_Tutorial_DLI2024.ipynb">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+</a>
 
 Solutions
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://drive.google.com/file/d/11SlrFjk-QAody6bOMgJtNP_EczaZeC3Q/view?usp=sharing)
+<a target="_blank" href="https://colab.research.google.com/github/dlineuroai-workshop/2024-Worshop/blob/main/NeuroAI_Tutorial_DLI2024_Solution.ipynb">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+</a>
+
+
+
+
